@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+Title = "parkewr"; 
+Text = "uwuwuu";
+Icon = "";
+Duration = 15;
+})
